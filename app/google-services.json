@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453579317689",
+    "project_id": "blind-test-711f8",
+    "storage_bucket": "blind-test-711f8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453579317689:android:69a0f11e97d91f98d79668",
+        "android_client_info": {
+          "package_name": "fr.esaip.blindtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9xaOEC27JRbL6ziXUofNRJtKycon3V3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
